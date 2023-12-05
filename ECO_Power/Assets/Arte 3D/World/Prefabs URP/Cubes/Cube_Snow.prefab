@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4879269337125020}
   - component: {fileID: 33247790813253254}
   - component: {fileID: 23134171081134382}
-  - component: {fileID: 4180754780546663131}
+  - component: {fileID: -6099563430020718283}
   m_Layer: 0
   m_Name: Cube_Snow
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4180754780546663131
+--- !u!65 &-6099563430020718283
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
